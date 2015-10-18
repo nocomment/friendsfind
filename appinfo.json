@@ -1,0 +1,22 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "moorezaq@gmail.com",
+    "longName": "FriendsFind.Me",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "FriendsFind",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "690c8102-7031-44c6-9bc5-60487c416306",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}

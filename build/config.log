@@ -1,0 +1,21 @@
+# project  configured on Sun Oct 18 09:16:58 2015 by
+# waf 1.7.11 (abi 98, python 20706f0 on linux2)
+# using /home/zm/pebble-dev/PebbleSDK-3.6/Pebble/waf configure
+#
+----------------------------------------
+Setting top to
+/home/zm/projs/temp/FriendsFind
+----------------------------------------
+Setting out to
+/home/zm/projs/temp/FriendsFind/build
+----------------------------------------
+Found Pebble SDK for basalt in:
+/home/zm/pebble-dev/PebbleSDK-3.6/Pebble/basalt
+----------------------------------------
+Checking for program gcc,cc
+arm-none-eabi-gcc
+find program=['gcc', 'cc'] paths='' var='CC' -> 'arm-none-eabi-gcc'
+----------------------------------------
+Checking for program ar
+arm-none-eabi-gcc-ar
+find program=['ar'] paths='' var='AR' -> 'arm-none-eabi-gcc-ar'
